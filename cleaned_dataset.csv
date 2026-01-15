@@ -1,0 +1,6 @@
+movie_id,title,director,country,release_date,rating,duration,genre,user_score,Data_Quality_Notes
+101,Avatar,James Cameron,USA,2009-12-18,PG-13,162,Action,8.0,"Duplicates removed, missing values handled, formats standardized"
+102,Inception,Christopher Nolan,USA,2010-07-16,PG-13,148,Sci-Fi,8.8,"Duplicates removed, missing values handled, formats standardized"
+103,Titanic,Unknown,UK,1997-12-19,PG-13,195,Romance,8.475,"Duplicates removed, missing values handled, formats standardized"
+104,Joker,Todd Phillips,USA,2019-10-04,R,122,Crime,8.5,"Duplicates removed, missing values handled, formats standardized"
+105,Inter Stellar,Christopher Nolan,USA,2014-11-07,PG-13,169,Sci-Fi,8.6,"Duplicates removed, missing values handled, formats standardized"
